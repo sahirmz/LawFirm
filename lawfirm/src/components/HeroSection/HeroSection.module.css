@@ -1,0 +1,66 @@
+.MainSection {
+  color: #fff;
+  background-color: #111111;
+  width: 100vw;
+  height: 800px;
+  top: 53px;
+  left: 153px;
+}
+
+.SectionWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.HeadingText {
+  color: #fff;
+  width: 571px;
+  /* height: 194px; */
+  /* top: 250px; */
+  left: 156px;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 147.523%; /* 97.365px */
+  padding-left: 158px;
+}
+
+.ProfileImg {
+  padding-right: 153px;
+}
+
+.TypoText1 {
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 147.523%; /* 97.365px */
+}
+
+.TypoText2 {
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 147.523%;
+}
+
+.TypoPara {
+  width: 560px;
+  height: 99px;
+  flex-shrink: 0;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.3;
+}
+
+

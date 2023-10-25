@@ -1,0 +1,17 @@
+.Navbar {
+  background-color: #111111;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.NavText {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  color: #fff;
+  width: 431px;
+  height: 26px;
+  top: 63px;
+  left: 508px;
+}

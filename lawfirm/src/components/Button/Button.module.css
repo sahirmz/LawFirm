@@ -1,0 +1,11 @@
+.Btnclass {
+    width: 172px;
+    height: 47px;
+    flex-shrink: 0;
+    border: 2px solid #fff;
+    background-color: #111111;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+  }
+  

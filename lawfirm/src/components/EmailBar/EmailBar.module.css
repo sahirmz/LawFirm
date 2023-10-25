@@ -1,0 +1,49 @@
+.EmailWrapper {
+  width: 438px;
+  height: 74px;
+  flex-shrink: 0;
+  border-radius: 43px;
+  background-color: #1d1d1d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Emailbar {
+  width: 244px;
+  height: 26px;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%; /* 26.004px */
+  background-color: #1d1d1d;
+  border: none;
+}
+
+.Bar {
+  width: 137px;
+  height: 4rem !important;
+  border-radius: 100px !important;
+  background: #e3b748 !important;
+  top: 621px;
+  left: 449px;
+  border-radius: 43px;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 162.523%;
+  cursor: pointer !important;
+}
+
+.emailicon {
+  border-radius: 10px;
+  height: 16.5px;
+  width: 18.33px;
+  top: 2.7px;
+  left: 1.83px;
+  margin-left: 20px;
+}
