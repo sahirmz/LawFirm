@@ -1,0 +1,81 @@
+.SectionWrap {
+  background-color: #1d1d1d;
+  padding-top: 186px;
+}
+
+.CardWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 21px;
+  padding-top: 97px;
+}
+
+.HeadTitle {
+  width: 437px;
+  height: 77px;
+  top: 1441px;
+  left: 512px;
+  color: #ffffff;
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+  margin: 0px 0px 0px 600px;
+}
+
+.HeadText {
+  margin: 28px 0px 0px 23px;
+}
+
+.Cards {
+  width: 359px;
+  height: 377px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background-color: #121212 !important;
+  color: #fff !important;
+}
+
+.middleCard {
+  width: 359px;
+  height: 377px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background-color: #232222 !important;
+  color: #fff !important;
+}
+
+.GiftLogo {
+  width: 101px;
+  height: 101px;
+  top: 1643px;
+  left: 170px;
+}
+
+.pText {
+  width: 293px;
+  height: 69px;
+  margin: 26px 0px 0px 23px;
+  left: 169px;
+  opacity: 0.30000001192092896;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.pill {
+  width: 121px;
+  height: 43px;
+  margin: 26px 0px 0px 23px;
+  border-radius: 23.5px;
+  background: #e3b748 !important;
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 162.523%; /* 22.753px */
+}

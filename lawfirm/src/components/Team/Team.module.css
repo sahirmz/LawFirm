@@ -1,0 +1,105 @@
+.TeamSectionWrapper {
+  background-color: #1d1d1d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.Title {
+  width: 253px;
+  height: 77px;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%; /* 77.232px */
+  margin-top: 188px;
+  margin-bottom: 10px;
+}
+
+.TeamContent {
+  display: flex;
+  width: 209px;
+  height: 68px;
+  gap: 22px;
+  margin-bottom: 20px;
+}
+.TeamContent2 {
+  background-color: #e3b748;
+  color: #1d1d1d;
+  border-radius: 14px;
+  display: flex;
+  width: 209px;
+  height: 68px;
+  gap: 22px;
+}
+
+.TeamText {
+  width: 119px;
+  height: 54px;
+  margin: auto;
+}
+.TeamText2 {
+  color: #373737;
+  width: 119px;
+  height: 54px;
+  margin: auto;
+}
+.NameText {
+  width: 119px;
+  height: 24px;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 100% */
+}
+.NameText2 {
+  color: #373737;
+  width: 119px;
+  height: 24px;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 100% */
+}
+
+.CaseText {
+  width: 69px;
+  height: 24px;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 171.429% */
+  opacity: 0.3;
+}
+.CaseText2 {
+  color: #373737;
+  width: 69px;
+  height: 24px;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 0.3;
+}
+
+.img {
+  width: 68px;
+  height: 68px;
+}
+
+.CardWrapper {
+  display: flex;
+  justify-content: space-around;
+  gap: 189px;
+  margin-top: 85px;
+}

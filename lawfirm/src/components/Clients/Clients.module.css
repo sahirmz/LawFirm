@@ -1,0 +1,93 @@
+.SectionWrapper {
+  background-color: #1d1d1d;
+}
+
+.SectionHead {
+  display: flex;
+  justify-content: center;
+  gap: 561px;
+}
+
+.Ptext {
+  color: var(--pure-white, #fff);
+  width: 374px;
+  height: 154px;
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%; /* 77.232px */
+  margin: 186px 0px 104px 0px;
+}
+
+.Arrows {
+  margin: 248px 0px 100px 0px;
+}
+
+.ClientContent {
+  margin-left: 26px;
+}
+
+.Cards1 {
+  color: #ffffff;
+  width: 359px;
+  height: 368px;
+  top: 3843px;
+  left: 154px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: #1d1d1d !important;
+}
+
+.Cards2 {
+  color: #ffffff;
+  width: 359px;
+  height: 368px;
+  top: 3843px;
+  left: 154px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  background: #1d1d1d !important;
+}
+
+.Clientimg {
+  margin-top: 36px;
+}
+
+.HeadText {
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 100% */
+  margin-top: 22px;
+}
+
+.ClientRole {
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 171.429% */
+  margin-top: 10px;
+}
+
+.ClientInfo {
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%; /* 22.753px */
+  opacity: 0.3;
+  margin-top: 20px;
+}
+
+.ClientCards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}

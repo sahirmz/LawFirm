@@ -1,0 +1,52 @@
+.IntroWrapper {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 172px;
+  background-color: #1d1d1d;
+}
+
+.v1 {
+  background: #6a6a6a;
+  width: 1px;
+  height: 206px;
+  margin-left: 183px;
+  margin-right: 87px;
+}
+
+.Introduce {
+  color: #ffffff;
+  width: 387px;
+  height: 174px;
+  top: 1081px;
+  left: 150px;
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 87px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.LawyerText {
+  color: var(--pure-white, #fff);
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 162.523%; /* 52.007px */
+}
+
+.RightText {
+  width: 475px;
+  height: 87px;
+  top: 1152px;
+  left: 807px;
+  opacity: 0.30000001192092896;
+  color: var(--pure-white, #fff);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%; /* 29.254px */
+}

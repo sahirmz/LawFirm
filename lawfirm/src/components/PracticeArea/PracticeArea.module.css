@@ -1,0 +1,27 @@
+.sectionWrapper {
+  background-color: #1d1d1d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.CardSection {
+  display: flex;
+  justify-content: center;
+  /* margin:65px 0px 0px 0px; */
+  gap: 2rem;
+  margin: 20px;
+}
+
+.TitleText {
+  color: #ffffff;
+  width: 448px;
+  height: 77px;
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+  margin: 179px 0px 65px 0px;
+}
